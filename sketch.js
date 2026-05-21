@@ -35,18 +35,17 @@ let platforms = [
 // it's ready before the sketch starts.
 // ============================================================
 function preload() {
-  bg = loadImage("assets/images/sushibackground.png");
+  bg = loadImage("assets/images/sushibackground.png"); [1]
   // Try to load a player sprite from assets/images/player.png.
   // If it doesn't exist, playerImg will be left null and the blob fallback will draw.
-  loadImage(
-    "assets/images/sushicharacter.png",
+  loadImage( "assets/images/sushicharacter.png", 
     (img) => {
       playerImg = img;
     },
     () => {
       playerImg = null;
     }
-  );
+  ) [2];
 }
 
 function setup() {
