@@ -20,12 +20,12 @@ The console will show any errors in your sketch.
 
 | File | Source |
 |------|--------|
-| `assets/images/sushibackground.png` | Taken from https://www.vecteezy.com/vector-art/16337762-horizontal-background-with-seamless-pattern-of-japanese-rolls-and-sushi-on-beige-background-design-for-banners-posters-flyers-vector
+| `assets/images/sushibackground.png` [1] | Horizontal background with seamless pattern of Japanese rolls and sushi on beige background design for banners posters flyers vector - vecteezy.com
 
-| `assets/images/sushicharacter.png` | Taken from https://pngtree.com/so/sushi-character
+| `assets/images/sushicharacter.png`[2] | Sushi character graphic asset - pngtree.com
 
 ## References
 
-[1] https://www.vecteezy.com/vector-art/16337762-horizontal-background-with-seamless-pattern-of-japanese-rolls-and-sushi-on-beige-background-design-for-banners-posters-flyers-vector
+[1] Vecteezy. 2023. Horizontal background with seamless pattern of Japanese rolls and sushi on beige background design for banners posters flyers vector. Vector art. Retrieved June 7, 2026 from https://www.vecteezy.com/vector-art/16337762-horizontal-background-with-seamless-pattern-of-japanese-rolls-and-sushi-on-beige-background-design-for-banners-posters-flyers-vector
 
-[2] https://pngtree.com/so/sushi-character
+[2] Pngtree. [n. d.]. Sushi character. Graphic asset. Retrieved June 7, 2026 from https://pngtree.com/so/sushi-character
