@@ -21,7 +21,6 @@ The console will show any errors in your sketch.
 | File | Source |
 |------|--------|
 | `assets/images/sushibackground.png` [1] | Horizontal background with seamless pattern of Japanese rolls and sushi on beige background design for banners posters flyers vector - vecteezy.com
-
 | `assets/images/sushicharacter.png`[2] | Sushi character graphic asset - pngtree.com
 
 ## References
